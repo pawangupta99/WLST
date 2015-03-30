@@ -1,0 +1,20 @@
+<Mar 23, 2015 12:17:53 AM MDT> <INFO> <Loading domains file: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:17:53 AM MDT> <WARNING> <Domains file not found: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:17:53 AM MDT> <INFO> <Loading identity key store: FileName=C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks, Type=jks, PassPhraseUsed=true>
+<Mar 23, 2015 12:17:53 AM MDT> <SEVERE> <Fatal error in NodeManager server: Identity key store file not found: C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks>
+<Mar 23, 2015 12:23:36 AM MDT> <INFO> <Loading domains file: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:23:36 AM MDT> <WARNING> <Domains file not found: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:23:36 AM MDT> <INFO> <Loading identity key store: FileName=C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks, Type=jks, PassPhraseUsed=true>
+<Mar 23, 2015 12:23:36 AM MDT> <SEVERE> <Fatal error in NodeManager server: Identity key store file not found: C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks>
+<Mar 23, 2015 12:29:23 AM MDT> <INFO> <Loading domains file: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:29:23 AM MDT> <WARNING> <Domains file not found: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:29:24 AM MDT> <INFO> <Loading identity key store: FileName=C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks, Type=jks, PassPhraseUsed=true>
+<Mar 23, 2015 12:29:24 AM MDT> <SEVERE> <Fatal error in NodeManager server: Identity key store file not found: C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks>
+<Mar 23, 2015 12:42:25 AM MDT> <INFO> <Loading domains file: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:42:25 AM MDT> <WARNING> <Domains file not found: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:42:25 AM MDT> <INFO> <Loading identity key store: FileName=C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks, Type=jks, PassPhraseUsed=true>
+<Mar 23, 2015 12:42:25 AM MDT> <SEVERE> <Fatal error in NodeManager server: Identity key store file not found: C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks>
+<Mar 23, 2015 12:44:29 AM MDT> <INFO> <Loading domains file: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:44:29 AM MDT> <WARNING> <Domains file not found: C:\WORKSP~1\NEXTGE~1\wlst\nodemanager.domains>
+<Mar 23, 2015 12:44:30 AM MDT> <INFO> <Loading identity key store: FileName=C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks, Type=jks, PassPhraseUsed=true>
+<Mar 23, 2015 12:44:30 AM MDT> <SEVERE> <Fatal error in NodeManager server: Identity key store file not found: C:\WorkSpace\NextGenInstallers\wlst\security\DemoIdentity.jks>
