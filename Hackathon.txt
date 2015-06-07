@@ -1,0 +1,34 @@
+
+There are list of prerequesite but no one refer the documents. Most of the RFA we get because user is not verifying all this.
+
+
+
+1) Operating system - Linux 5.8 and Linux 6,Solaris 10,11,Windows OS.
+
+2) RAM
+
+3)Disk Space
+
+4) Check no of processors,
+
+5) Database version
+   DB Connection
+   Check user privliege in database.
+
+6) Port validation
+
+7) Supported JDK version 7 and above
+
+8) Supported AppServer version
+   Weblogic 11g,12c
+   Tomcat 7
+   Websphere 6
+   
+Are you able to connect admin server with the details provided?   
+
+On top of that we can verify any product relate pre-requsite.
+
+Our tool will generate a html report and it will have a UI where the report can be send to Oracle support. 
+   
+
+   
