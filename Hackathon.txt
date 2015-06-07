@@ -1,7 +1,6 @@
-
 There are list of prerequesite but no one refer the documents. Most of the RFA we get because user is not verifying all this.
 
-
+0) Start
 
 1) Operating system - Linux 5.8 and Linux 6,Solaris 10,11,Windows OS.
 
